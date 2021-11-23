@@ -38,5 +38,5 @@ This is the most important file you will be editing with. I have created a lot o
 ##### --- Begin Document section
 This part defines the frontpage and structure of your thesis. First fill the name, title, degrees, committee members, etc. It also defines the sequence of chapters (add more chapters based on your needs) where you write the thesis. Please follow the instructions!
 
-### Final Comment
+### Final comment
 Try search in Google, Stack Overflow/Exchange or overleaf if you find some LaTex functions or errors unclear. Again, I suggest a LaTex GUI which will save you a LOT of time in editing. Have fun with this template, and you'll find it much more efficient than MS Word when tuning the format of thesis.
