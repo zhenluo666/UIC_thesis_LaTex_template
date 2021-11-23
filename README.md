@@ -34,9 +34,9 @@ This is collection of all your reference in the format of bib. Call the label of
 #### 10. thesis.pdf
 This is the PDF file compiled by thesis.tex. No need to touch it as it will be updated by typesetting thesis.tex.
 #### 11. thesis.tex
-This is the most important file you will be editing with. If you have GUI, look into each sample sections/chapters, play with all the examples and understand how to modify them. For example, how can you insert a figure, table, a new chapter, an abbreviation or a reference?
+This is the most important file you will be editing with. I have created a lot of samples/examples in the template. If you have GUI, look into each sample sections/chapters, play with all the examples and understand how to modify them. For example, how can you insert a figure, table, a new chapter, an abbreviation or a reference?
 ##### --- Begin Document section
 This part defines the frontpage and structure of your thesis. First fill the name, title, degrees, committee members, etc. It also defines the sequence of chapters (add more chapters based on your needs) where you write the thesis. Please follow the instructions!
 
-### Comment
+### Final Comment
 Try search in Google, Stack Overflow/Exchange or overleaf if you find some LaTex functions or errors unclear. Again, I suggest a LaTex GUI which will save you a LOT of time in editing. Have fun with this template, and you'll find it much more efficient than MS Word when tuning the format of thesis.
