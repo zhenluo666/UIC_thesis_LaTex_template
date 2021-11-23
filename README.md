@@ -26,9 +26,9 @@ This is the folder that stores all the chapters and other sections of thesis. If
 In the template, I already create two chapters (introduction and sample chapter) for you. Add more chapters by making copy of them. Please note for each chapter, there should have a 0_index.tex as a index file that defines the structure of all sub-chapters within current chapter. Also, it defines the name and lable (in case you want to mention this chapter somewhere else, then just call \label) of current chapter.
 ##### --- other
 This sub-folder includes all other minor sections in the thsis, such as dedication, acknowlegement, summary, vita, etc. Please refer to the comments within each file (with index 1-5).  
-__preamble.tex is the file where you want to insert any other LaTex packages  
-__commands.tex is the file where you want to create new commands  
-__abbrs.tex is the file where you want to create abbreviations in thesis. This is useful and please refer to the examples within the file  
+`__preamble.tex` is the file where you want to insert any other LaTex packages  
+`__commands.tex` is the file where you want to create new commands  
+`__abbrs.tex` is the file where you want to create abbreviations in thesis. This is useful and please refer to the examples within the file  
 #### 9. thesis.bib
 This is collection of all your reference in the format of bib. Call the label of each reference in thesis.tex and it will create the reference table and labels for you automatically. Please refer to the examples in thesis.tex.
 #### 10. thesis.pdf
