@@ -4,7 +4,7 @@ This LaTex template is served as a useful starting point for writing a PhD thesi
 The templated (Document class) was initially developed by Paul Davis at 1991, followed by a series of updates from Ethan Munson, Thomas McKibben, Nathan Bliss, Pete Snyder and Zhen Luo.  
 A LaTex editor (w/ GUI) is strongly suggested for editing and typesetting, such as TexPad, along with standard LaTex packages for building. 
 
-### Components in folder
+### Repo structure
 The format and layout of template are well established so you should only need to edit a few files. However, here I will still give a full list of files in folder with respective descriptions:
 #### 1. ThesisManual_rev_06Oct2016.pdf
 This is the latest thesis manual in 2021 released by Graduate College, with all required format details and samples included. Please refer to the latest version if there is further release.
