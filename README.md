@@ -1,6 +1,6 @@
 # LaTex Template for Thesis at UIC
 ## Intro
-This LaTex template is served as a useful starting point for writing a PhD thesis at UIC. Its structure and format has been modified and updated to abide by the requirement of thesis manual released by Graduate College since 2016.  
+This LaTex template is served as a useful starting point for writing a PhD thesis at University of Illinois at Chicago (UIC). Its structure and format has been modified and updated to abide by the requirement of thesis manual released by Graduate College since 2016.  
 The templated (Document class) was initially developed by Paul Davis at 1991, followed by a series of updates from Ethan Munson, Thomas McKibben, Nathan Bliss, Pete Snyder and Zhen Luo.  
 A LaTex editor (w/ GUI) is strongly suggested for editing and typesetting, such as TexPad, along with standard LaTex packages for building. 
 
